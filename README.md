@@ -114,6 +114,15 @@ You can download the metamak web extension from <a href="https://chrome.google.c
 
 <br>
 
+Download Ganache 
+Also You Must have Nodejs Installed
+then 
+
+Just Open the Project in Your VS-Code and keep the Ganache Running
+
+Run the command
+`truffle migrate --reset`
+`npm run start`
 
 
 
