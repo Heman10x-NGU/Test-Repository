@@ -130,12 +130,19 @@ Truffle
 $ npm install
 
 
-
 <h2 align="center" id="DevelopedBy"> :label: Developed By</h2>
     
-   :arrow_right: [Hemant Kumar](https://github.com/Heman10x-NGU)
+   :arrow_right: [Souvik Choudhury](https://github.com/SouvikChoudhury360)
       
- 
+   <br>
+   
+   :arrow_right: [Arghyadip Sengupta](https://github.com/arghya1912)
+     
+   <br>
+   
+   :arrow_right: [Arkapravo Saha](https://github.com/pappan-123)
+     
+
 
 
 
