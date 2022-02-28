@@ -129,6 +129,11 @@ You can download the metamak web extension from <a href="https://chrome.google.c
   <br/>
   Then just Head over to Localhost/3000
   
+  <h3>Scrennshots<h3/>
+ 1. ![Screenshot](1.png)
+ <br/>
+ 2. ![Screenshot](2.png)
+  
 
 
 
