@@ -122,26 +122,6 @@ You can download the metamak web extension from <a href="https://chrome.google.c
 
 
 
-You'll need the following dependencies : <br/>
-
-Node JS <a href="https://nodejs.org/en/download/">here</a> <br/>
-Truffle
-```sh
-$ npm install
-
-
-<h2 align="center" id="DevelopedBy"> :label: Developed By</h2>
-    
-   :arrow_right: [Souvik Choudhury](https://github.com/SouvikChoudhury360)
-      
-   <br>
-   
-   :arrow_right: [Arghyadip Sengupta](https://github.com/arghya1912)
-     
-   <br>
-   
-   :arrow_right: [Arkapravo Saha](https://github.com/pappan-123)
-     
 
 
 
