@@ -39,7 +39,6 @@ Testing Guthub
 >>>> `📌` [Features](#Features)<br>
 
 
->>>>>>>> `📌` [ScreenShots](#ScreenShots)<br>
 
 ```diff
  + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + 
@@ -125,6 +124,11 @@ You can download the metamak web extension from <a href="https://chrome.google.c
   (i).     `truffle migrate --reset`
   <br/>
   (ii).    `npm run start`
+  <br/>
+  Make sure you have your Metamask Running on the Ganache Chain for the local Development server to start
+  <br/>
+  Then just Head over to Localhost/3000
+  
 
 
 
