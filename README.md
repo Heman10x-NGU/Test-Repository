@@ -122,6 +122,7 @@ You can download the metamak web extension from <a href="https://chrome.google.c
 
 5.Run the commands
   (i).     `truffle migrate --reset`
+  <br/>
   (ii).    `npm run start`
 
 
