@@ -108,21 +108,21 @@ Vibegram is basically a **censorship free social media platform** which runs on 
 <br>
 
 
-### 1️⃣ Install The MetaMask web extension
+1 Install The MetaMask web extension
 
 You can download the metamak web extension from <a href="https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn">here</a>
 
 <br>
 
-Download Ganache 
-Also You Must have Nodejs Installed
-then 
+2.Download Ganache 
+3.Also You Must have Nodejs Installed
+ 
 
-Just Open the Project in Your VS-Code and keep the Ganache Running
+4.Just Open the Project in Your VS-Code and keep the Ganache Running
 
-Run the command
-`truffle migrate --reset`
-`npm run start`
+5.Run the commands
+  (i).     `truffle migrate --reset`
+  (ii).    `npm run start`
 
 
 
